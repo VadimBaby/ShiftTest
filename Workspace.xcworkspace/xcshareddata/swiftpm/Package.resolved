@@ -1,0 +1,24 @@
+{
+  "originHash" : "cde3ed78b93647b98be55655563b399b604d86bf9acf8a23275893b2615aef55",
+  "pins" : [
+    {
+      "identity" : "mycommon",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VadimBaby/MyCommon.git",
+      "state" : {
+        "revision" : "8859691bd81cfcb16147960acd5b9d3a95602b96",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    }
+  ],
+  "version" : 3
+}

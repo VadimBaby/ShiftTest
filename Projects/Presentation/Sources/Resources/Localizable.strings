@@ -1,0 +1,13 @@
+"registration.systemTitle" = "Регистрация";
+"registration.textfield.name" = "Введите имя";
+"registration.textfield.surname" = "Введите фамилие";
+"registration.textfield.password" = "Введите пароль";
+"registration.textfield.repeatPassword" = "Повторите пароль";
+"registration.button.registration" = "Зарегестрироваться";
+"registration.label.birthday" = "Дата рождения";
+
+"main.systemTitle" = "Главный экран";
+"main.button.hello" = "Приветствие";
+"main.alert.hello.title" = "Приветствие";
+"main.alert.hello.description" = "Привет";
+"main.alert.hello.ok" = "OK";

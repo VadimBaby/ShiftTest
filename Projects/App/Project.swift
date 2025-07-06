@@ -1,7 +1,7 @@
 import ProjectDescription
 import ProjectDescriptionHelpers
 
-fileprivate let NAME_PROJECT = Constants.Modules.ShiftTest.title
+fileprivate let NAME_PROJECT = Constants.Modules.App.title
 
 let project = Project(
     name: NAME_PROJECT,

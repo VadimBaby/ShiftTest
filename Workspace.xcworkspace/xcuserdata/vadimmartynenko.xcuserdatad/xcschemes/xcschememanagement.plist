@@ -4,24 +4,12 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MAIN.xcscheme_^#shared#^_</key>
-		<dict>
-			<key>isShown</key>
-			<true/>
-			<key>orderHint</key>
-			<integer>0</integer>
-		</dict>
-		<key>SnapKitPlayground (Playground).xcscheme</key>
-		<dict>
-			<key>orderHint</key>
-			<integer>8</integer>
-		</dict>
 		<key>Workspace-Workspace.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>isShown</key>
 			<true/>
 			<key>orderHint</key>
-			<integer>7</integer>
+			<integer>6</integer>
 		</dict>
 	</dict>
 </dict>

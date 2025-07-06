@@ -8,7 +8,7 @@ public enum Constants {
     public static let DEFAULT_LOCATE_RESOURCES: ResourceFileElements = ["Sources/Resources/**"]
     
     public enum Modules: String, CaseIterable {
-        case Domain, Data, Presentation, ShiftTest, DataSources, Networking
+        case App, Domain, Data, Presentation, DataSources, Networking
         
         public var title: String { rawValue }
         

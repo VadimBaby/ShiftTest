@@ -17,7 +17,8 @@ public enum TypeTarget {
         
         return .extendingDefault(
             with: [
-                "UILaunchStoryboardName": "LaunchScreen.storyboard"
+                "UILaunchStoryboardName": "LaunchScreen.storyboard",
+                "CFBundleDisplayName": "ShiftTest"
             ]
         )
     }

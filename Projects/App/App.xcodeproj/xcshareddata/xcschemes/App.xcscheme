@@ -24,10 +24,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EEED8AC9089F9E4B0FD1BE27"
-               BuildableName = "ShiftTest.app"
-               BlueprintName = "ShiftTest"
-               ReferencedContainer = "container:ShiftTest.xcodeproj">
+               BlueprintIdentifier = "93E9E330FC2CE7458D9C925F"
+               BuildableName = "App.app"
+               BlueprintName = "App"
+               ReferencedContainer = "container:App.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EEED8AC9089F9E4B0FD1BE27"
-            BuildableName = "ShiftTest.app"
-            BlueprintName = "ShiftTest"
-            ReferencedContainer = "container:ShiftTest.xcodeproj">
+            BlueprintIdentifier = "93E9E330FC2CE7458D9C925F"
+            BuildableName = "App.app"
+            BlueprintName = "App"
+            ReferencedContainer = "container:App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,10 +72,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EEED8AC9089F9E4B0FD1BE27"
-            BuildableName = "ShiftTest.app"
-            BlueprintName = "ShiftTest"
-            ReferencedContainer = "container:ShiftTest.xcodeproj">
+            BlueprintIdentifier = "93E9E330FC2CE7458D9C925F"
+            BuildableName = "App.app"
+            BlueprintName = "App"
+            ReferencedContainer = "container:App.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
